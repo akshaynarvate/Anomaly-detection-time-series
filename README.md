@@ -1,0 +1,2 @@
+# Anomaly-detection-time-series
+Anomaly detection is an important part of machine learning that makes the results unbiased to any category or class. While in time series modelling it takes a very important place because there is a variety of anomalies that can be there in time-series data. These anomalies may include seasonal anomalies, regression anomalies, quantile anomalies, etc. ADTK is a toolkit that mainly helps in detecting all types of anomalies. Using this package, we can also perform a variety of procedures that come under time series modelling.
